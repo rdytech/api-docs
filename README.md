@@ -54,3 +54,8 @@ https://restapi.zambion.com/swagger/
 ### VETtrak
 
 https://help-vettrak.readytech.io/support/solutions/folders/51000191596
+
+## Security
+
+ReadyTech are committed to ensuring our APIs are secure. If you believe you have found a security vulnerability, please refer to our vulnerability disclosure policy
+https://www.readytech.com.au/vulnerability-disclosure/
