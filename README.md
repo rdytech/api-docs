@@ -9,7 +9,7 @@ ReadyTech builds mission critical software for targeted markets. APIs for each o
 
 ### Altus
 
-Available on request
+Available on request. Please discuss with account manager
 
 ### Esher House
 
@@ -29,7 +29,7 @@ https://jobready-stage-new.neptune.jobready.io/api
 
 ### JR Plus
 
-https://api.jobreadyplus.com/api-docs/index.html
+https://api.jobreadyplus.com/api-docs/
 
 ### Open Windows
 
@@ -37,11 +37,11 @@ https://api.openwindows.com.au
 
 ### Ready Community (Open Office)
 
-Available on request
+Available on request. Please discuss with account manager
 
 ### Ready Employ
 
-https://stagevm.currentjobs.co/apiv2/swagger/index.html
+https://stagevm.currentjobs.co/apiv2/swagger/
 
 ### Ready Recruit
 
@@ -49,7 +49,7 @@ https://developer.jobready.io/direct/
 
 ### Ready Workforce (Zambion)
 
-https://restapi.zambion.com/swagger/index.html?url=/swagger/v1/swagger.json
+https://restapi.zambion.com/swagger/
 
 ### VETtrak
 
