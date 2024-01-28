@@ -21,7 +21,7 @@ https://developers.epayroll.com.au/
 
 ### HR3
 
-https://hr3cloud.com/HR3RestApi/swagger/ui/index
+https://testapi.hr3cloud.com/
 
 ### Job Ready
 
