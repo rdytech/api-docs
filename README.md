@@ -41,7 +41,8 @@ Available on request. Please discuss with account manager
 
 ### Ready Employ
 
-https://stagevm.currentjobs.co/apiv2/swagger/
+https://re.phoenixats.com/swagger
+
 
 ### Ready Recruit
 
