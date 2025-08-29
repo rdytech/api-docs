@@ -54,7 +54,7 @@ https://restapi.zambion.com/swagger/
 
 ### VETtrak
 
-https://help-vettrak.readytech.io/support/solutions/folders/51000191596
+https://readytech.io/what-we-do/education/products/vettrak/technical-information/api-documentation
 
 ## Security
 
