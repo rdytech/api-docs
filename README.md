@@ -43,6 +43,9 @@ Available on request. Please discuss with account manager
 
 https://re.phoenixats.com/swagger
 
+### Ready Fulfil
+
+[https://github.com/rdytech/ready-fulfil](https://github.com/rdytech/ready-fulfil/blob/main/api/src/ReadyFulfil.Api.Application/open-api-v1.yaml)
 
 ### Ready Recruit
 
@@ -51,6 +54,10 @@ https://developer.jobready.io/direct/
 ### Ready Workforce (Zambion)
 
 https://restapi.zambion.com/swagger/
+
+### STP Gateway (WFS)
+
+https://github.com/rdytech/stp/tree/develop/api/src/ReadyTech.Stp.Api.Application
 
 ### VETtrak
 
