@@ -27,7 +27,7 @@ https://testapi.hr3cloud.com/
 
 https://jobready-stage-new.neptune.jobready.io/api
 
-### JR Plus
+### Ready Student
 
 https://api.jobreadyplus.com/api-docs/
 
